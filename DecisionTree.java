@@ -1,5 +1,3 @@
-//Sully Dawood - 260679328 - Comp 250 A3
-
 import java.io.Serializable;
 import java.util.ArrayList;
 
